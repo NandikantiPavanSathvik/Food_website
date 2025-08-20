@@ -11,7 +11,7 @@ function Home() {
         <a href="#" className="btn">Today's Menu</a>
       </div>
       <div className="home-img">
-        <img src="/img/home.png" alt="Delicious Food" />
+        <img src="/public/img/home.png" alt="Delicious Food" />
       </div>
     </section>
   );

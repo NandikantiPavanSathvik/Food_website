@@ -5,9 +5,9 @@ import React from 'react';
 
 function Menu() {
   const menuItems = [
-    { id: 1, image:'/img/food1.png', title: 'Veg Burger', subtitle: 'Tasty Food', price: '$11.00' },
-    { id: 2, image: '/img/food2.png', title: 'Chicken Burger', subtitle: 'Tasty Food', price: '$11.00' },
-    { id: 3, image: '/img/food3.png', title: 'Chicken Fries', subtitle: 'Tasty Food', price: '$11.00' }
+    { id: 1, image:'/public/img/food1.png', title: 'Veg Burger', subtitle: 'Tasty Food', price: '$11.00' },
+    { id: 2, image: '/public/img/food2.png', title: 'Chicken Burger', subtitle: 'Tasty Food', price: '$11.00' },
+    { id: 3, image: '/public/img/food3.png', title: 'Chicken Fries', subtitle: 'Tasty Food', price: '$11.00' }
   ];
 
   return (

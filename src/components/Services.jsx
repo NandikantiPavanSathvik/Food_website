@@ -7,19 +7,19 @@ function Services() {
   const serviceItems = [
     {
       id: 1,
-      image: '/img/s1.png',
+      image: '/public/img/s1.png',
       title: 'Order',
       description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, odit!'
     },
     {
       id: 2,
-      image: '/img/s2.png',
+      image: '/public/img/s2.png',
       title: 'Shipping',
       description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, odit!'
     },
     {
       id: 3,
-      image: '/img/s3.png',
+      image: '/public/img/s3.png',
       title: 'Delivered',
       description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, odit!'
     }
