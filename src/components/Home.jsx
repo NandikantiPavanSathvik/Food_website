@@ -1,6 +1,6 @@
 // src/components/Home.jsx
 import React from 'react';
-import homeImg from '../assets/img/home.png';
+
 
 function Home() {
   return (
@@ -11,7 +11,7 @@ function Home() {
         <a href="#" className="btn">Today's Menu</a>
       </div>
       <div className="home-img">
-        <img src={homeImg} alt="Delicious Food" />
+        <img src="/img/home.png" alt="Delicious Food" />
       </div>
     </section>
   );
